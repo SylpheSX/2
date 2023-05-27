@@ -14,7 +14,7 @@ apt-get install nano
 echo -e "\e[1;45m                                        \e[0m"
 echo -e "\e[1;45m         Clone ccminer                  \e[0m"
 echo -e "\e[1;45m                                        \e[0m"
-git clone --single-branch -b ARM https://github.com/monkins1010/ccminer
+git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
 
 echo -e "\e[1;42m                                        \e[0m"
 echo -e "\e[1;42m         cd ccminer                     \e[0m"
